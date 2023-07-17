@@ -1,5 +1,6 @@
 # 自用配置
 
+* Loon配置 [***ShadowRocket.conf***]（待定）
 * Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/cobalue/Netool-Config/main/Loon/Loon.conf)
 * QuantumultX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/cobalue/Netool-Config/main/QuantumultX/QuantumultX.conf)
 * Surge配置 [***SurgePRO.conf***]（待定）
